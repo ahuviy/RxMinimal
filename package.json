@@ -1,0 +1,23 @@
+{
+  "name": "rxminimal",
+  "version": "0.1.1",
+  "description": "A lightweight mimicking of RxJS API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ahuviy/RxMinimal.git"
+  },
+  "keywords": [
+    "rxjs"
+  ],
+  "author": "Ahuvi Yearim",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/ahuviy/RxMinimal/issues"
+  },
+  "homepage": "https://github.com/ahuviy/RxMinimal#readme",
+  "types": "./index.d.ts"
+}
